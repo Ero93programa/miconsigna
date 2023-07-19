@@ -1,0 +1,12 @@
+admin admin
+
+juanillo@gmail.com 123
+antonillo@gmail.com 123
+pepito@gmail.com 123
+carmencilla@gmail.com 123
+fernandete@gmail.com 123
+
+Estos son los usuarios con más contenido. Hay lugares en Granada, Sevilla, Lugo, Nerja y Níjar
+
+Pueden probarse más usuarios consultando la tabla de usuario en phpmyadmin, 
+usando su correo electrónico, y el 123 como contraseña (es igual en todos).
